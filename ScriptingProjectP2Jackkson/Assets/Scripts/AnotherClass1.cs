@@ -26,4 +26,3 @@ public class AnotherClass
         Debug.Log("Office Supplies total: " + answer);
     }
 }
-
